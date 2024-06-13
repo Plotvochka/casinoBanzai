@@ -484,6 +484,10 @@ img {
     display: flex;
     gap: 25px;
   }
+
+  .header-btn {
+    padding: 10px 30px;
+  }
   .burger-wrap {
     display: none;
   }
